@@ -1,2 +1,2 @@
-# COMP90024-Assignment1
+# COMP90024 - Cluster and Cloud Computing
 Twitter data processing using MPI
